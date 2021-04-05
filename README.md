@@ -1,4 +1,4 @@
-## Software Developer (C#/WPF/.NetCore)
+# Software Developer (C#/WPF/.NetCore)
 
 ### Bio:
 * Interested in the dynamics and development of components
