@@ -14,8 +14,8 @@
 * Read two English books every year
 
 ### Please see my accomplishments at LinkedIn for more information on my experiences...
-* LinkedIn: "https://www.linkedin.com/in/mehdi-moghaddam-zaveh-b02b59167"
-* LinkedIn-Fa: "https://www.linkedin.com/in/mehdi-moghaddam-zaveh-b02b59167/?locale=xx_XX"
+* LinkedIn: "https://www.linkedin.com/in/mzit-hive"
+* LinkedIn-Fa: "https://www.linkedin.com/in/mzit-hive/?locale=xx_XX"
 * GitLab: "https://gitlab.com/MzITHiVE"
 * GitHub: "https://github.com/MzITHiVE"
 * CV: "https://drive.google.com/drive/folders/13jnxg9h24qY1r7Qnpx0MEO1e4URTjO5E?usp=sharing"
