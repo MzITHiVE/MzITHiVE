@@ -1,5 +1,8 @@
 # Software Developer (C#/WPF/.NetCore)
 
+### STACKS:
+* C#, WinForms, WPF, Components, Library, Entity Framework, Code-First, MySQL, DotNetCore, RESTful Services and API
+
 ### Bio:
 * Interested in the dynamics and development of components
 * I always try to increase my knowledge in .Net language as much as possible
