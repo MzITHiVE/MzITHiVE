@@ -21,7 +21,7 @@
 * LinkedIn-Fa: "https://www.linkedin.com/in/mzit-hive/?locale=xx_XX"
 * GitLab: "https://gitlab.com/MzITHiVE"
 * GitHub: "https://github.com/MzITHiVE"
-* CV: "https://drive.google.com/drive/folders/13jnxg9h24qY1r7Qnpx0MEO1e4URTjO5E?usp=sharing"
+* CV: "https://tipy.link/mzit-hive-cv"
 
 ### Contact me:
 * @MzIT.HiVE [Work]
